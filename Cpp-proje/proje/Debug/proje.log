@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  proje.cpp
+D:\Mega Bölüm\MUSTAFA\Projelerim\Cpp-proje\proje\proje.cpp(246,8): warning C4101: 'mansup': unreferenced local variable
+D:\Mega Bölüm\MUSTAFA\Projelerim\Cpp-proje\proje\proje.cpp(246,16): warning C4101: 'tahakkuk': unreferenced local variable
+  proje.vcxproj -> D:\Mega Bölüm\MUSTAFA\Projelerim\Cpp-proje\Debug\proje.exe

@@ -1,0 +1,9 @@
+              1          13/05/2019            ahmet.holding               ali                 ali                  55                  55
+              2          10/05/2019            musti.holding             musti              inkaya                  12                  21
+              4          12/05/2019              ibo.holding             samet               polat                4545                4244
+              3          12/05/2019            musti.holding             halit              sansar                  54                  45
+              5          15/12/2019           inkaya.holding             busra                 soz              214124              124124
+              6          16/16/1666           inkaya.holding              asli           demirkaya               12312               21412
+              7          17/17/2017           inkaya.holding             musti               musti            12312321            21312321
+            123          12/12/2019            inkaya.matbaa               eto               demir                 455                 544
+           1234          26/12/2000                    asdas            asfasf              asfasf                  12                  21
